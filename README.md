@@ -34,7 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/LeviJunior1/crypto_app.git>
+$ git clone <https://github.com/LeviJunior1/plant_app>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd crypto_app
